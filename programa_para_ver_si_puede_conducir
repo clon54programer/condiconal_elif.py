@@ -6,7 +6,7 @@
 edad = int(input("coloque su edad: "))
 
 if edad <16:
-    print("no tienes edad paar conducir")
+    print("no tienes edad para conducir")
 elif edad <=18:
     print("puedes conducir ")
 elif edad <70:
